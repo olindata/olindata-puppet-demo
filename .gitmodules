@@ -13,3 +13,9 @@
 [submodule "modules/common/stdlib"]
 	path = modules/common/stdlib
 	url = https://github.com/olindata/puppetlabs-stdlib.git
+[submodule "modules/common/puppetdb"]
+	path = modules/common/puppetdb
+	url = https://github.com/olindata/puppetlabs-puppetdb.git
+[submodule "modules/common/foreman"]
+	path = modules/common/foreman
+	url = https://github.com/olindata/puppet-foreman.git
