@@ -1,0 +1,2 @@
+---
+puppet::master::modulepath: - '/etc/puppet/modules/common:/etc/puppet/modules/custom'
