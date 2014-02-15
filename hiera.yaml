@@ -1,6 +1,5 @@
 :hierarchy:
  - fqdn/%{fqdn}
- - env/%{environment}
  - osfamily/%{osfamily}
  - common
 :backends:
