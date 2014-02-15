@@ -1,9 +1,7 @@
+import nodes/*.pp
+
 node /^www\d+$/ {
   include role::www
-}
-
-node /^db\d+$/ {
-  include role::db
 }
 
 node 'noc.olindata.com' {
